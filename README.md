@@ -20,14 +20,14 @@ p{
     <p>daisy es</p>
     <ul>
       <li>feliz</li>
-      <li>triste</li>
+     
       <li>divertida</li>
     </ul>
     <p>daisy tiene color</p>
     <ol>
       <li class="white-text">blanca</li>
-      <li>negra</li>
-      <li class="green-text"> con manchas</li>
+
+      <li class="green-text"> con manchas negras</li>
     </ol>
      
     <p>el mejor amigo de daisy es:</p>
